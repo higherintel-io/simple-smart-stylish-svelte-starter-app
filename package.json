@@ -1,0 +1,29 @@
+{
+  "name": "higherintel-simple-smart-stylish-svelte-starter-app",
+  "description": "Using Vite, Svelte, Native Fetch, Tailwind 3 and Daisy UI component framework, the boilerplate lets full-stack developers quickly build beautiful frontends and consume APIs",
+  "private": false,
+  "author": {
+    "name": "Quintin Henry",
+    "email": "quintin@higherintel.io",
+    "url": "https://higherintel.io"
+  },
+  "license": "MIT",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
+    "@tailwindcss/forms": "^0.5.1",
+    "@tailwindcss/typography": "^0.5.2",
+    "autoprefixer": "^10.4.7",
+    "daisyui": "^2.15.0",
+    "postcss": "^8.4.13",
+    "svelte": "^3.44.0",
+    "tailwindcss": "^3.0.24",
+    "vite": "^2.9.9"
+  }
+}
